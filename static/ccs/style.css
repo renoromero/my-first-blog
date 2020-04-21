@@ -1,0 +1,12 @@
+body{
+  background-color: #e6d58a3a;
+}
+
+ul:first-letter {
+    display:block;
+    margin:5px 0 0 5px;
+    float:left;
+    color:rgb(253, 9, 9);
+    font-size:60px;
+    font-family:Georgia;
+    }
